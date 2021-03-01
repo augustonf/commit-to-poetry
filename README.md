@@ -2,4 +2,4 @@
 
 Every dot in the following line represents a commit.
 
-..
+...
